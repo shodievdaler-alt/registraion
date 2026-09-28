@@ -1,0 +1,8 @@
+{
+  "name": "Очень Плохая Фифа 26 (Scuffed FIFA)",
+  "description": "Худший футбольный симулятор в мире: поломанная физика, бесконечные кувырки Неймара, автоголы Магуайра, абсурдный донат EA, паки с дворниками и гул вувузел.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
